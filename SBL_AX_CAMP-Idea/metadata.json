@@ -1,5 +1,0 @@
-{
-  "name": "AX 과제 아이디어 생성기",
-  "description": "바이오의약품 CDMO의 GMP, QA/QC 분야를 대상으로, 업무 고충과 기대사항을 입력하면 Gemini AI가 AX 과제 아이디어를 생성하고 이미지로 다운로드할 수 있도록 돕는 웹 애플리케이션입니다.",
-  "requestFramePermissions": []
-}
